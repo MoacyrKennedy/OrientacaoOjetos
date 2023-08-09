@@ -1,0 +1,30 @@
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.exe
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.deps.json
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.runtimeconfig.json
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.dll
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.pdb
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.csproj.AssemblyReference.cache
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.AssemblyInfo.cs
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.dll
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\refint\01Conceitos.dll
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.pdb
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.genruntimeconfig.cache
+C:\Users\kennedy\OneDrive\Área de Trabalho\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\ref\01Conceitos.dll
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.exe
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.deps.json
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.runtimeconfig.json
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.dll
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\bin\Debug\net7.0\01Conceitos.pdb
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.csproj.AssemblyReference.cache
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.AssemblyInfo.cs
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.dll
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\refint\01Conceitos.dll
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.pdb
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\01Conceitos.genruntimeconfig.cache
+C:\Users\kennedy\OrientacaoOjetos\01Conceitos\obj\Debug\net7.0\ref\01Conceitos.dll
