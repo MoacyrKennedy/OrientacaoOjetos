@@ -1,0 +1,15 @@
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.AssemblyInfo.cs
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.exe
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.deps.json
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.runtimeconfig.json
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.dll
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\bin\Debug\net7.0\06Encapsulamento.pdb
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.dll
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\refint\06Encapsulamento.dll
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.pdb
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\06Encapsulamento.genruntimeconfig.cache
+C:\Users\kennedy\OrientacaoOjetos\06Encapsulamento\obj\Debug\net7.0\ref\06Encapsulamento.dll
